@@ -27,7 +27,7 @@ El proyecto está dividido en tres archivos principales:
      - Los jefes pueden consultar los horarios de otros empleados.
      - Usa el algoritmo de **Merge Sort** para ordenar a los empleados por nombre y **Búsqueda Binaria** para encontrarlos rápidamente.
 
-### Instrucciones
+## Instrucciones
 
 1. **Ejecuta el archivo `main.py`**.
    - Al abrir la aplicación, verás una ventana de inicio con campos para ingresar el nombre y el ID de un empleado.
@@ -39,6 +39,3 @@ El proyecto está dividido en tres archivos principales:
 3. **Ingreso como jefe**:
    - Si eres jefe, después de ingresar tu nombre y ID, tendrás la opción de consultar los turnos de otros empleados para un día específico o el horario semanal de todo el personal.
 
-4. **Consulta de horarios**:
-   - Los empleados pueden consultar su propio turno para un día específico.
-   - Los jefes pueden ver el turno de otros empleados o el horario completo semanal de cada uno.
