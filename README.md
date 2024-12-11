@@ -1,5 +1,6 @@
 # Horarios Farmacia Arapiles
 
+Link repositorio: (https://github.com/mariamunoznadales/proyecto_final_MMN.git)
 Este proyecto permite gestionar los horarios de los empleados de la farmacia Arapiles, con opciones diferenciadas para empleados y jefe. Los usuarios pueden consultar sus propios horarios y, en el caso del jefe, consultar los horarios de los demás empleados.
 
 ## Archivos del Proyecto
